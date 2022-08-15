@@ -1,2 +1,1 @@
-### thesis_project
-![image](https://github.com/uraimov92cnu/Thesis_project/blob/master/imgs/age_ConMatrix.png)
+
