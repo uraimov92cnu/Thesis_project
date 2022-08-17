@@ -15,7 +15,7 @@ Thinks you have to install or installed on your working machine:
 ### Training Result
 ###### Age Accuracy
 Age Accuracy: 67.47562746318191, 	One-off Accuracy: 93.83945239576852
-[](https://github.com/uraimov92cnu/Thesis_project/blob/master/imgs/age_ConMatrix.png)
+(https://github.com/uraimov92cnu/Thesis_project/blob/master/imgs/age_ConMatrix.png)
 
 ##### Images that our model mislabeled age with confident level
 [](https://github.com/uraimov92cnu/Thesis_project/blob/master/imgs/age_con_level.png)
@@ -39,5 +39,6 @@ Race Accuracy: 82.05766438498237
 - Jamoliddin Uraimov
 
 ####### For Contact
-Twitter- [Jamoliddin Uraimov](https://twitter.com/Uraimov92cnu)
-LinkedIn- [Jamoliddin Uraimov](https://www.linkedin.com/in/jamoliddin-uraimov-0985b023b/)
+
+- Twitter- [Jamoliddin Uraimov](https://twitter.com/Uraimov92cnu)
+- LinkedIn- [Jamoliddin Uraimov](https://www.linkedin.com/in/jamoliddin-uraimov-0985b023b/)
