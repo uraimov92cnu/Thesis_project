@@ -1,6 +1,6 @@
 # MultiTask Classification: Age Gender Race
 
-One of my side projects for multioutput Convolutional Neural Networks based on Age, Gender and Race prediction model. The model is conducted on [PyTorch]  (https://pytorch.org/) to classify both age ang gender. I made a model project with pre-trained model [DenseNet.](https://arxiv.org/abs/1608.06993) 
+One of my side projects for multioutput Convolutional Neural Networks based on Age, Gender and Race prediction model. The model is conducted on [PyTorch](https://pytorch.org/)) to classify both age ang gender. I made a model project with pre-trained model [DenseNet.](https://arxiv.org/abs/1608.06993) 
 
 ### Prerequisites
 Thinks you have to install or installed on your working machine:
