@@ -39,10 +39,10 @@ Race Accuracy: 82.05766438498237
 It can be seen from the results that there are different false labels in the dataset. This caused the model to produce lower results.
 
 
-##### Author
+##### Authors
 - Jamoliddin Uraimov
 
-##### For Contact
+##### For Contact.
 
 - Twitter- [Jamoliddin Uraimov](https://twitter.com/Uraimov92cnu)
 - LinkedIn- [Jamoliddin Uraimov](https://www.linkedin.com/in/jamoliddin-uraimov-0985b023b/)
