@@ -2,6 +2,9 @@
 
 One of my side projects for multioutput Convolutional Neural Networks based on Age, Gender and Race prediction model. The model is conducted on [PyTorch](https://pytorch.org/) to classify both age ang gender. I made a model project with pre-trained model [DenseNet.](https://arxiv.org/abs/1608.06993) 
 
+
+###### If you want to read about the proposed model in full, you can access it through the link below. [My paper](https://koreascience.kr/article/JAKO202209464471634.pdf)
+
 ### Prerequisites
 Thinks you have to install or installed on your working machine:
 - Python
