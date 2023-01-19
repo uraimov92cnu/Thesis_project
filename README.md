@@ -13,7 +13,7 @@ Thinks you have to install or installed on your working machine:
 - Matplotlib
 - Jupyter Notebook
 - Torchvision
-- PyTorch
+- PyTorch.
 
 ### Training Result
 ###### Age Accuracy
